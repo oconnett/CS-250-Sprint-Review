@@ -1,7 +1,7 @@
 # CS-250-Sprint-Review
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
--Creating user stories helps organize user needs and feedback into a readable and easy to understand format that can be communicated to the development team with, in order to implemnt the appropriate changes into a program/project.
+- Creating user stories helps organize user needs and feedback into a readable and easy to understand format that can be communicated to the development team with, in order to implemnt the appropriate changes into a program/project.
 
 How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 
